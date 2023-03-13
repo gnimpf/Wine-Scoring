@@ -1,5 +1,5 @@
 [project]
 name = "Wine-Scoring"
 version = "0.1.0"
-authors = [{name = "gnimpf", email = "nope@nope"}]
+authors = [{name = "gnimpf", email = "nope@nope.com"}]
 dynamic = ["version", "description"]
