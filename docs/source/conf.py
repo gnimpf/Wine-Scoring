@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Wine_Scoring'
+project = 'Wine-Scoring'
 copyright = '2023, gnimpf'
 author = 'gnimpf'
 
