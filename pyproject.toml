@@ -4,5 +4,6 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "Wine-Scoring"
+version = "0.1.0"
 authors = [{name = "gnimpf", email = "nope@nope"}]
 dynamic = ["version", "description"]
