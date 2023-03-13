@@ -1,9 +1,9 @@
-.. Wine_Scoring documentation master file, created by
+.. Wine-Scoring documentation master file, created by
    sphinx-quickstart on Mon Mar 13 10:24:38 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Wine_Scoring's documentation!
+Welcome to Wine-Scoring's documentation!
 ========================================
 
 This is a very simple documentation page for a take home assignment dating back to somewhere around March 2022.
